@@ -20,5 +20,5 @@ To run Frontend:
 2) Run 'npm start' command in the terminal.
 3) The application will start running on browser with default port : 3000
 
-first of all when you run project backend just go in database in roles table assign id 1 and name ROLE_USER then it will not create give any problem.
+first of all when you run project backend just go in database in roles table assign id 1 and name ROLE_ADMIN then it will not create give any problem.
 Initial you will not see any think in home page as you run application so try to add products from admin dashboard.
